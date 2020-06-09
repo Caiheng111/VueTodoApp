@@ -8,7 +8,6 @@
 
 <script>
 import TodoItem from './TodoItem.vue';
-
 export default {
   name: "Todos",
   components: {
@@ -19,5 +18,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>
