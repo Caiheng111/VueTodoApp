@@ -1,24 +1,7 @@
-# vue_todolist
+## Todo List (Vue.js)
 
-## Project setup
-```
-npm install
-```
+**User Interface**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+![avatar](/docs/user_interface.png)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
